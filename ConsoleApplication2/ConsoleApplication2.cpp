@@ -204,7 +204,9 @@ int main() {
 		
 		}
 	}
-
+	_getch();
+	_getch();
+	_getch();
 	_getch();
 
 
